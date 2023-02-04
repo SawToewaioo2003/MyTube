@@ -12,7 +12,7 @@
 },
 {
 "title":"Channel K",
-"imgurl":"https://www.myanmartvchannels.com/assets/images/channelicon/mrtvent.jpg",
+"imgurl":"https://www.myanmartvchannels.com/assets/cache/images/channeliconb/channelk-120x120-a4d.jpg",
 "link":"https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream_hi/index.m3u8"
 },
 {
@@ -27,8 +27,13 @@
 },
 {
 "title":"MITV",
-"imgurl":"https://www.myanmartvchannels.com/assets/cache/images/channeliconb/mitv-120x120-12c.jpg",
+"imgurl":"https://www.myanmartvchannels.com/assets/images/channeliconb/mitv.jpg",
 "link":"https://l1-xl1.myanmarnet.com/relay/mitv/ch1/stream.m3u8"
+},
+{
+"title":"Channel Me",
+"imgurl":"https://www.myanmartvchannels.com/assets/images/channelicon/mrtvent.jpg",
+"link":"https://5a13fe32ef748.streamlock.net/mmplay/mrtv-entertainment/playlist.m3u8"
 }
 ],
 "sports":[
